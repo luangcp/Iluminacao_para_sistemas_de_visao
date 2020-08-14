@@ -1,0 +1,63 @@
+TECNICAS DE ILUMINAÇÃO
+
+São maneiras e utilizar e posicionar as iluminações e/ou utilizar acessorios para que tenhamos uma boa imagem.
+
+LUZ DIRETA -
+A luz direta nada mais é do que uma luz comum iluminando a peça para a inspeção. Normalmente utilizada para aplicações simples, sem complexidade a luz direta
+tem uma desvantagem em gerar sombras em algumas refiões dependendo do formato da peça e da posição da luz.
+
+BAIXO ANGULO -
+A luz de baixo angulo é posiconada angulada em relação a superficie da peça, os raios batem na superficie plana e são refletidos para longem, batem nos 
+relevos e são refletidos para camera
+Como resultado dessa técnica, temos as superficies planas escuras e os relevos destacados.
+
+BACK LIGHT -
+O back light como no nome ja diz (luz atras) Consiste em colocar a iluminação atrás do objeto a ser inspecionado
+
+Com essa técnica observamos a silhueta do objeto, podendo inspecionar o seu contorno. Essa técnica é bastante utilizada quando necessitamos realizar
+medidas de objetos pequenos, transformando a câmera em algo semelhante a um projetor de perfil.
+A desvantagem é que qualque outra caracteristica na superficie da peça não será visivel.
+
+LUZ POLARIZADA - 
+Basicamente todas as iluminações emitem raios de luz em varias direções, o polarizador é um acessorio colocado na luz e na lente
+da camera com a finalidade de deixar passear apenas raios em uma determinada direção
+
+O efeito disso é que conseguimos eliminar reflexos indesejados, melhorando a qualidade da imagem
+
+LUZ DIFUSA -
+Ao contrario do polarizador que converte uma luz que chega em varias direções a uma única direção
+o difusor converte uma iluminação que vem em uma unica direção ou em direções proximas e espalha pelo ambiente.
+
+Um difusor pode ser qualquer material que espalha a luz como um vidro jateado, um acrilico branco ou até mesmo uma folha sulfite. Já é suficiente
+para transformar luzes pontuais em uma iluminação mais uniforme.
+
+Existem iluminações como a Domo que são naturalmente difusas.
+
+DOMO -
+A luz domo consiste em iluminar o objeto de forma indireta. Utilizando uma meia esfera com as luzes posicionadas na parde de baixo
+essa iluminação reflete a luz em todas as direções, criando uma luz mais distribuida ou difusa
+
+Como efeito dessa luz temos uma imagem sem sombras e sem reflexo, o que chamamos de dia nublado
+uma analogia quando se anda na rua e não enxerga sua sombra em dias de muita nuvem.
+Como a luz chega no objeto por todos os lados, essa iluminação é bastante indicada quando a superficie é
+ou está irregular, pois consegue absorver essas variações e gerar uma imagem de alta qualidade para a inspeção
+
+
+DOAL -
+A luz doal também conhecida como coaxial, consiste em uma luz lateral refletida em um espelho 50% prateado inclinado a 45° em relação
+ao objeto. A luz bate no espelho e é refletida para o objeto, volta atravessando o espelho e chega na camera
+Por essa caracteristica é uma iluminação muito boa para destacar superficies planas. Tudo que é plano reflete a luz para a camera, como
+consequencia fica mais claro, o que não for plano reflete a luz para longe, aparecendo mais escuro na imagem
+
+LUZ ESTRUTURADA - 
+A luz estruturada trata-se de um laser
+A tecnica que vamos abordar é o fato de conseguirmos destacar caracteristicas 3d com ela.
+
+Imagine projetar uma linha laser sobre um objeto, se soubermos o angulo que o laser esta (beta) e medirmos a sombra causada pelo objeto,
+é possivel calcular a altura (h) usando trigonometria
+
+Uma outra situação é utilizar essa iluminação para verificar distorções em superficies. Se projetarmos uma matriz laser (quadrados) em uma chapa
+metalica por exemplo, medindo a distancia entre as linhas que formam os quadrados podemos identificar deformações (amassados ou ondulações)
+atraves dessas medidas
+
+

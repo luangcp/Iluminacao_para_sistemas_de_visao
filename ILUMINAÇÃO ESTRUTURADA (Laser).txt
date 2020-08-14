@@ -1,0 +1,16 @@
+ILUMINAÇÃO ESTRUTURADA (Laser)
+
+É uma luz de alta intensidade. Sendo bem simplista.
+
+Existe uma grande quantidade de energia armazenada, tornando a luz laser uma iluminação de alta intensidade
+
+Devido a essa intensidade travalhar com essa luz exige alguns cuidados especiais. Pois se essa luz atingir a lente
+da camera chegando ao sensor de captura de imagem pode danificalo, inutiizando a camera
+
+Tambemt tomar cuidado com as pessoas proximas
+
+Além disso a luz laser possui uma textura granular, o que pode atrapalhar a inspeção.
+
+Assim como o LED o laser é monocromatico: Seu espetro de iluminação é bem fechado, pode ser usado
+como estrobo e RESSALTA CARACTERISTICAS 3D
+

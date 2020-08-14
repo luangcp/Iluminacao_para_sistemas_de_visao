@@ -1,0 +1,24 @@
+ILUMINAÇÃO FLUORESCENTE
+
+As lampadas fluorecentes são luzes difusas, ou seja, sua luz se espalha de forma mais ampla
+pelo ambiente. Seu funcionamento consiste em dois eletrodos que ionizam um gás em seu interior,
+o gás ionizado produz uma luz ultravioleta (UV) que quando em contato com a camada de fosforo
+na parede interna do tubo da iluminação emite luz visivel.
+
+Alem de serem difusas uma outra caracteristica dessa iluminação é que os tubos podem ser feitos em qualquer formato
+Porem ela não fica acesa de forma constante, a luz fluorescente oscila (pisca) em uma frequencia relativamente
+alta para os nossos olhos, nos dando a impressão que está sempre acesa.
+
+Se usarmos esse tipo de iluminação com um tempo de exposiçãp muito baixo, pode ocorrer de a imagem ser
+capturada em um movimento no qual o ciclo de luz esteja desligado, obtendo uma imagem escura.
+A recomendação é que ao utilizar esse tipo de iluminação sempre deixe o tempo de exposição maior do que a
+frequencia da lampada, escolhida para a aplicação, dessa forma sempre que haja a captura da imagem é possivel 
+garantir que a iluminação passou por um ciclo aceso evitando oscilações na imagem
+
+Uma desvantagem desse tipo de iluminação é que não pode ser disparada como um flash. A luz precisa estar
+sempre ligada ou ela vai se degradar facilmente
+Alem disso normalmente o espectro de cor dessas iluminações são bem amplos
+ela pode ser branca mas ter uma tonalidade azulada ou amarelada que pode prejudicar a aplicação
+
+
+

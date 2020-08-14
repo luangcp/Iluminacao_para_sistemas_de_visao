@@ -1,0 +1,23 @@
+FILTROS E ESCALA DE COR -
+Outros acessorios além do polarizador e difusor que podemos utilizar são os filtros, mas para isso precisamos entender um pouco sobre
+o espectro das cores de iluminação
+
+Toda luz tem um comprimento de onda, uma frequencia, correspondente a sua cor, essa frequencia é dada em nanômetros(nm)
+
+É possivel utilizando os filtros visualizar apenas um comprimento de onda de luz especifica e assim
+destacar ou inibir caracteristicas do objeto ou que esta sendo inspecionado
+
+Com essa tecnica sempre que utilizarmos cores, ou espectros da mesma familia das cores do nosso objeto
+pensando em uma câmera monocromatica (preto e branco) o objeto aparecera branco, se utilizarmos cores de 
+familias opostas o objeto aparecera preto.
+
+Assim como os polarizadores os filtros podem ser utilizados nas lentes das cameras em conjunto com uma cor especifica de
+iluminação, afim de obter os resultados desejados
+
+Outras aplicações para a escala de cor é trabalhar com seus extremos. No extremo mais baixo da escala, temos a luz ultravioleta, uma luz de intensidade muito
+fraca, onde basicamente sempre que a utilizamos, precisamos proteger a aplicação de interferencia de luz externa, mas alguns materiais reagem ao seu comprimento
+de onda e brilham. Essa reação pode ser benefica para destacar caracteristicas importantes para a aplicação.
+No extremo mais alto encontra-se a luz infravermelha ou IR. A grande vantagem dessa iluminação é que seu comprimento de onda é invisivel ao olho humano
+mas para a camera a captacao ocorre normalmente, fazendo com que seja uma otima opção em casos onde teremos pessoas interagindo com o sistema.
+Ao inves de termos uma luz vermelha disparando com um flash a cada segundo em uma aplicação incomodando as pessoas prozimas, podemos usar uma luz infravermelha
+que para a aplicação funcionara normalmente e para as pessoas proximas é como se não houvesse luz.

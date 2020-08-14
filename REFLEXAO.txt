@@ -1,0 +1,8 @@
+
+REFLEXÃO
+
+Se a peça é reflexiva e temos uma caracteristica a ser inspecionada que não reflete luz, podemos utilizar a iluminação de forma a deizar a parte
+reflexica branca, refletindo luz, destacando a caracteristica desejada em preto, ja que a luz nesse ponto não sera refletida para a camera
+
+Se a peça reflexiva e a carecteristica esta nessa região, o que podems fazer é trabalhar com angulação da camera ou da luz em relação a peça. Assim
+a luz bate na superficie e não é refletida para a camera

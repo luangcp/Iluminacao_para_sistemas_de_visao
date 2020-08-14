@@ -1,0 +1,7 @@
+DEFININDO ILUMINAÇÃO
+
+A iluminação é responsavel por 80% do sistema de visão, sendo assim, para qualquer tipo de inspeção é recomendado realizar testes para virificar qual iluminação
+dara um melhor efeito para a aplicação. Antes de tudo deve-se sempre levantar os requisitos do objeto/aplicacao para garantir que a iluminação especificada
+atenda as necessidades da inspeção
+
+

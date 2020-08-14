@@ -1,0 +1,19 @@
+LED
+
+´é utilizado com bastante frequencia em aplicação de sistemas de visão em função da sua durabilidade que dependendo da qualidade
+do LED pode estrar entre 30 e 100 mil horas
+
+No pior dos casos (30 mil) se considerarmos uma aplicação rodando 24hrs por dia, teremos cerca de 3,5 anos de durabilidade, para o 
+melhor caso (100 mil) teremos 11,5 anos
+
+É importante lembrar que em uma aplicação o LED é utilizado como um flash, sendo dispadado poe alguns milesegundos durante a captura de imagem, o que aumenta
+mais sua duração
+
+Outra caracteristica do LED é que seu espectro de cor normalmente é tao fechado que podemos dizer que são monocromaticos, ou seja, não há variação na tonalidade
+de suas cores.
+
+Como desvantagem o LED tem a intensidade de luz muito baixa 
+
+Além dessas caracteristicas quando trabalhamos com LEDs precisamos ficar
+muito atentos a tensão de trabalho da iluminação, pois se aplicado uma tensão
+superior a que os LEDs suportam, inevitavelmente vão queimar.
